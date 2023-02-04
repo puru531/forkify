@@ -1,0 +1,5 @@
+git init : To initialize git in current folder.
+git status : to see status of the file
+git add <filename> : Add a file to staging area
+git add -A : Add all files to staging area
+git add . : Add all files to staging area
