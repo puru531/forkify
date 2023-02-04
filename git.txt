@@ -3,3 +3,9 @@ git status : to see status of the file
 git add <filename> : Add a file to staging area
 git add -A : Add all files to staging area
 git add . : Add all files to staging area
+git commit -m 'Initial commit' : Commiting the staged files 
+git reset --hard HEAD : points to the last commit
+git reset --hard <commitID> : reverts the code to given commit
+git log : list of all the commits
+
+git branch : lists all the branches
